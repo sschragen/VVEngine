@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\VVEngine.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VVEngine.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\VVEngineEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\VVENGINEACTOR.ipch" />
+    <None Include="..\..\VVENGINEDEFINITIONS.ipch" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\VVEngine">
+      <UniqueIdentifier>{FB21925C-6819-3C85-B454-304DB14BA14F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VVEngine\VVEngine.Build.cs">
+      <Filter>Source\VVEngine</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\VVEngine\VVEngine.cpp">
+      <Filter>Source\VVEngine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VVEngine\VVEngine.h">
+      <Filter>Source\VVEngine</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VVEngine\VVEngineGameModeBase.cpp">
+      <Filter>Source\VVEngine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VVEngine\VVEngineGameModeBase.h">
+      <Filter>Source\VVEngine</Filter>
+    </ClInclude>
+    <Filter Include="Source\VVEngine\Private">
+      <UniqueIdentifier>{BA8834BC-EF95-3AEB-8A59-727287E42887}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VVEngine\Private\DualContour.cpp">
+      <Filter>Source\VVEngine\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\VVEngine\Private\VVEngineActor.cpp">
+      <Filter>Source\VVEngine\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\VVEngine\Private\VVEngineChunk.cpp">
+      <Filter>Source\VVEngine\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\VVEngine\Private\VVEngineChunkManager.cpp">
+      <Filter>Source\VVEngine\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\VVEngine\Private\VVEngineDefinitions.cpp">
+      <Filter>Source\VVEngine\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\VVEngine\Private\VVEngineMeshComponent.cpp">
+      <Filter>Source\VVEngine\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\VVEngine\Private\VVEngineVoxel.cpp">
+      <Filter>Source\VVEngine\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\VVEngine\Private\VVEngineVoxelArray.cpp">
+      <Filter>Source\VVEngine\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\VVEngine\Public">
+      <UniqueIdentifier>{50E945E9-0A6E-35C4-8E3B-CC445230AEF6}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\VVEngine\Public\DualContour.h">
+      <Filter>Source\VVEngine\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\VVEngine\Public\VVEngineActor.h">
+      <Filter>Source\VVEngine\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\VVEngine\Public\VVEngineChunk.h">
+      <Filter>Source\VVEngine\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\VVEngine\Public\VVEngineChunkManager.h">
+      <Filter>Source\VVEngine\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\VVEngine\Public\VVEngineDefinitions.h">
+      <Filter>Source\VVEngine\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\VVEngine\Public\VVEngineMeshComponent.h">
+      <Filter>Source\VVEngine\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\VVEngine\Public\VVEngineVoxel.h">
+      <Filter>Source\VVEngine\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\VVEngine\Public\VVEngineVoxelArray.h">
+      <Filter>Source\VVEngine\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\VVEngine\Public\qef_simd.h">
+      <Filter>Source\VVEngine\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

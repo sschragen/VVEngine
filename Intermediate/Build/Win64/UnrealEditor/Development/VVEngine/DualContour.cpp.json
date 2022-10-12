@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\steph\\dokumente\\unreal projects\\vvengine\\source\\vvengine\\private\\dualcontour.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\steph\\dokumente\\unreal projects\\vvengine\\intermediate\\build\\win64\\vvengineeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\steph\\dokumente\\unreal projects\\vvengine\\intermediate\\build\\win64\\unrealeditor\\development\\vvengine\\definitions.vvengine.h",
+            "c:\\users\\steph\\dokumente\\unreal projects\\vvengine\\source\\vvengine\\public\\dualcontour.h",
+            "c:\\users\\steph\\dokumente\\unreal projects\\vvengine\\source\\vvengine\\public\\vvenginechunk.h",
+            "c:\\users\\steph\\dokumente\\unreal projects\\vvengine\\source\\vvengine\\public\\vvenginevoxelarray.h",
+            "c:\\users\\steph\\dokumente\\unreal projects\\vvengine\\source\\vvengine\\public\\vvenginedefinitions.h",
+            "c:\\users\\steph\\dokumente\\unreal projects\\vvengine\\intermediate\\build\\win64\\unrealeditor\\inc\\vvengine\\vvenginedefinitions.generated.h",
+            "c:\\users\\steph\\dokumente\\unreal projects\\vvengine\\source\\vvengine\\public\\vvenginevoxel.h",
+            "c:\\users\\steph\\dokumente\\unreal projects\\vvengine\\intermediate\\build\\win64\\unrealeditor\\inc\\vvengine\\vvenginevoxelarray.generated.h",
+            "c:\\users\\steph\\dokumente\\unreal projects\\vvengine\\intermediate\\build\\win64\\unrealeditor\\inc\\vvengine\\vvenginechunk.generated.h",
+            "c:\\users\\steph\\dokumente\\unreal projects\\vvengine\\source\\vvengine\\public\\qef_simd.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

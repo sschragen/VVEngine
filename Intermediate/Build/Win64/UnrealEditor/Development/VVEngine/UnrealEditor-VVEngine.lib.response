@@ -1,0 +1,29 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VVEngine.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\steph\Dokumente\Unreal Projects\VVEngine\Intermediate\Build\Win64\VVEngineEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\steph\Dokumente\Unreal Projects\VVEngine\Intermediate\Build\Win64\UnrealEditor\Development\VVEngine\DualContour.cpp.obj"
+"C:\Users\steph\Dokumente\Unreal Projects\VVEngine\Intermediate\Build\Win64\UnrealEditor\Development\VVEngine\VVEngineActor.cpp.obj"
+"C:\Users\steph\Dokumente\Unreal Projects\VVEngine\Intermediate\Build\Win64\UnrealEditor\Development\VVEngine\VVEngineChunk.cpp.obj"
+"C:\Users\steph\Dokumente\Unreal Projects\VVEngine\Intermediate\Build\Win64\UnrealEditor\Development\VVEngine\VVEngineChunkManager.cpp.obj"
+"C:\Users\steph\Dokumente\Unreal Projects\VVEngine\Intermediate\Build\Win64\UnrealEditor\Development\VVEngine\VVEngineDefinitions.cpp.obj"
+"C:\Users\steph\Dokumente\Unreal Projects\VVEngine\Intermediate\Build\Win64\UnrealEditor\Development\VVEngine\VVEngineMeshComponent.cpp.obj"
+"C:\Users\steph\Dokumente\Unreal Projects\VVEngine\Intermediate\Build\Win64\UnrealEditor\Development\VVEngine\VVEngineVoxel.cpp.obj"
+"C:\Users\steph\Dokumente\Unreal Projects\VVEngine\Intermediate\Build\Win64\UnrealEditor\Development\VVEngine\VVEngineVoxelArray.cpp.obj"
+"C:\Users\steph\Dokumente\Unreal Projects\VVEngine\Intermediate\Build\Win64\UnrealEditor\Development\VVEngine\VVEngine.cpp.obj"
+"C:\Users\steph\Dokumente\Unreal Projects\VVEngine\Intermediate\Build\Win64\UnrealEditor\Development\VVEngine\VVEngineGameModeBase.cpp.obj"
+"C:\Users\steph\Dokumente\Unreal Projects\VVEngine\Intermediate\Build\Win64\UnrealEditor\Development\VVEngine\VVEngine.init.gen.cpp.obj"
+"C:\Users\steph\Dokumente\Unreal Projects\VVEngine\Intermediate\Build\Win64\UnrealEditor\Development\VVEngine\VVEngineActor.gen.cpp.obj"
+"C:\Users\steph\Dokumente\Unreal Projects\VVEngine\Intermediate\Build\Win64\UnrealEditor\Development\VVEngine\VVEngineChunk.gen.cpp.obj"
+"C:\Users\steph\Dokumente\Unreal Projects\VVEngine\Intermediate\Build\Win64\UnrealEditor\Development\VVEngine\VVEngineChunkManager.gen.cpp.obj"
+"C:\Users\steph\Dokumente\Unreal Projects\VVEngine\Intermediate\Build\Win64\UnrealEditor\Development\VVEngine\VVEngineDefinitions.gen.cpp.obj"
+"C:\Users\steph\Dokumente\Unreal Projects\VVEngine\Intermediate\Build\Win64\UnrealEditor\Development\VVEngine\VVEngineGameModeBase.gen.cpp.obj"
+"C:\Users\steph\Dokumente\Unreal Projects\VVEngine\Intermediate\Build\Win64\UnrealEditor\Development\VVEngine\VVEngineMeshComponent.gen.cpp.obj"
+"C:\Users\steph\Dokumente\Unreal Projects\VVEngine\Intermediate\Build\Win64\UnrealEditor\Development\VVEngine\VVEngineVoxelArray.gen.cpp.obj"
+"C:\Users\steph\Dokumente\Unreal Projects\VVEngine\Intermediate\Build\Win64\UnrealEditor\Development\VVEngine\Default.rc2.res"
+/OUT:"C:\Users\steph\Dokumente\Unreal Projects\VVEngine\Intermediate\Build\Win64\UnrealEditor\Development\VVEngine\UnrealEditor-VVEngine.lib"

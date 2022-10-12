@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VVEngine",
+			"Path": "C:\\Users\\steph\\Dokumente\\Unreal Projects\\VVEngine\\Source\\VVEngine.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VVEngineEditor",
+			"Path": "C:\\Users\\steph\\Dokumente\\Unreal Projects\\VVEngine\\Source\\VVEngineEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

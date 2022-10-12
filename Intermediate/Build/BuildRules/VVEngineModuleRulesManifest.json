@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\steph\\Dokumente\\Unreal Projects\\VVEngine\\Source\\VVEngine\\VVEngine.Build.cs",
+		"C:\\Users\\steph\\Dokumente\\Unreal Projects\\VVEngine\\Source\\VVEngine.Target.cs",
+		"C:\\Users\\steph\\Dokumente\\Unreal Projects\\VVEngine\\Source\\VVEngineEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
